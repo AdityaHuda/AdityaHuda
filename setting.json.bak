@@ -1,8 +1,8 @@
 {
-  "name-web":"Best Game Radar",
+  "name-web":"Best Game Rant",
   "author":"Admin",
   "remove-comment-html":true,
-  "target":"https://www.gamesradar.com",
+  "target":"https://gamerant.com",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
     "script",
